@@ -149,7 +149,7 @@ app.layout = html.Div(
             
             html.P([
                 "Connect with me on ",
-                html.A("LinkedIn", href="www.linkedin.com/in/shodolamu-opeyemi-a53240203", target="_blank", style={"color": "#2980b9", "textDecoration": "none"}),
+                html.A("LinkedIn", href="https://www.linkedin.com/in/shodolamu-opeyemi-a53240203", target="_blank", style={"color": "#2980b9", "textDecoration": "none"}),
                 " or reach out via ",
                 html.A("Email", href="mailto:hope.sb001@gmail.com", style={"color": "#2980b9", "textDecoration": "none"}),
                 "."
